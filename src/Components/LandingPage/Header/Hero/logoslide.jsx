@@ -1,6 +1,6 @@
 import React from "react";
-import { ble,post,zenon } from "../assets";
-import "./logo.css"
+import { ble,post,zenon } from "../../../../assets";
+import "../../logo.css"
 const LogoSlide = () => {
     return(
         <div className="logos">

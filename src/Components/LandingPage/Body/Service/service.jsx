@@ -1,7 +1,6 @@
-
-import styles from "../style";
-import "./logo.css"
-import { ui , rectangle, arrow} from "../assets"
+import styles from "../../../../style";
+import "../../logo.css"
+import { ui , rectangle, arrow} from "../../../../assets"
 import React, {useEffect, useRef } from "react";
 import {motion,useInView,useAnimation} from "framer-motion";
 const Service = () =>{

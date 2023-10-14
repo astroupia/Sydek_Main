@@ -1,7 +1,7 @@
 import React from "react";
-import {earth} from "../assets"
-import "./logo.css"
-import styles from "../style";
+import {earth} from "../../../../assets"
+import "../../logo.css"
+import styles from "../../../../style";
 
 export const Box = () => {
   return (

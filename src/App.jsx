@@ -1,7 +1,7 @@
 import styles from "./style";
 import React, {useEffect, useRef } from "react";
 import {motion,useInView,useAnimation} from "framer-motion";
-import { Clients, Footer, Navbar, Stats, Testimonials, Hero, Techhnologies ,Service,Box} from "./Components";
+import { Clients, Footer, Navbar, Stats, Testimonials, Hero, Techhnologies ,Service,Box} from "./Components/LandingPage";
 
 const App = () => {
 
